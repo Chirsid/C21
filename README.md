@@ -1,2 +1,2 @@
-# C21
-This is for C21 Class
+# collisionAlgorithm
+Algorithm to detect collision between two objects
